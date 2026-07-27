@@ -4,7 +4,8 @@
 
 
 # 특정 확장자 제어ㅣ
-# *txt
+*.txt
+calc.py
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
